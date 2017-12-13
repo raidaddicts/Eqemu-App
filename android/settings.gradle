@@ -1,0 +1,3 @@
+rootProject.name = 'KMRA'
+
+include ':app'
